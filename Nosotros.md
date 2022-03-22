@@ -1,3 +1,22 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-Nosotros, tenemos servicio las 24 horas del día. Sabemos que tienes prisa, y por eso atendemos tu petición de forma ágil y eficiente, te solicitaremos un técnico capacitado para cualquier tipo de problema 
+**¿Por qué nosotros?**
+
+*Soporte 24/7*
+
+Te brindamos un servicio 24/7.
+
+*Flexibilidad*
+
+Todos nuestros planes de Soporte se crean bajo tus reales necesidades.
+
+*Equipo técnico*
+
+Nuestro equipo técnico está en constante capacitación para atender las nuevas tecnologías y tendencias.
+
+*Plaforma de soporte*
+
+A todos nuestros clientes les damos acceso a nuestra plataforma de soporte, donde la mesa de ayuda responderá todas sus consultas.
+
+
+
