@@ -1,4 +1,5 @@
-[Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
+[Nosotros](./Nosotros.md) . [Servicios](./Servicios.md) . [FAQ](FAQ.md) . [Ubicación](Ubicacion.md) . [Contacto](./Contacto.md)
+
 ## BIENVENIDOS A SOPORTE LÓPEZ 
 
 Estamos muy cerca de ti.
