@@ -2,27 +2,17 @@
 
 ## Nosotros
 
-Somos una empresa enfocada en ofrecer soluciones técnicas.
- 
-Gracias a nuestro equipo de profesionales, la programación y estructuración de procesos, en conjunto con una política de continuo mejoramiento hemos logrado posicionarnos como una de las empresas de soporte técnico más privilegiada del país.
+**Mision**
 
-**¿Por qué nosotros?**
+Proporcionar las tecnologías más innovadoras a medida de las necesidades empresariales, con el objetivo de incrementar su competitividad y productividad. Para ello implementamos soluciones prácticas adaptadas a sus necesidades y desarrollamos nuevas soluciones creativas.
 
-*Soporte 24/7*
+**Visión**
 
-Te brindamos un servicio 24/7.
+Brindar soluciones en tecnología informática; para contribuir al desarrollo integral de las empresas e instituciones, brindando soporte técnico eficiente y oportuno.
 
-*Flexibilidad*
+**Valores**
 
-Todos nuestros planes de Soporte se crean bajo tus reales necesidades.
-
-*Equipo técnico*
-
-Nuestro equipo técnico está en constante capacitación para atender las nuevas tecnologías y tendencias.
-
-*Plaforma de soporte*
-
-A todos nuestros clientes les damos acceso a nuestra plataforma de soporte, donde la mesa de ayuda responderá todas sus consultas.
+Busca aquellas empresas que fomenten la innovación, el trabajo en equipo, la formación de sus trabajadores y sobre todo la transparencia, que son valores que pueden afectar muy directamente a la forma de trabajar contigo.
 
 
 
