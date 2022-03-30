@@ -4,6 +4,7 @@
 Nombre: <input type="text" name="name"><br>
 Apellido: <input type="text"> 
 Telefono: <input type="tel">
+
 E-mail: <input type="text" name="email"><br>
 Fecha de servicio: <input type="date">
 Calificación: <input type="range" id="vol" name="vol" min="1" max="10">
