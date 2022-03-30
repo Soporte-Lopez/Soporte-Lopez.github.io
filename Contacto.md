@@ -3,6 +3,7 @@
 <form action="https://formspree.io/f/xoqrndrv " method="post">
 Nombre: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
+Telefono: <input type="tel"> name="phone"><br>
 <input type="submit">
 </form>
 Telefono: <input type="tel"> id="phone" name="phone" 
