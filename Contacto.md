@@ -2,10 +2,12 @@
 
 <form action="https://formspree.io/f/xoqrndrv " method="post">
 Nombre: <input type="text" name="name"><br>
+Apellido: <input type="text"> 
+Telefono: <input type="tel">
 E-mail: <input type="text" name="email"><br>
-Telefono: <input type="tel"> name="phone"><br>
+Fecha de servicio: <input type="date">
+Clificación: <input type="range" id="vol" name="vol" min="1" max="10">
 <input type="submit">
 </form>
-Telefono: <input type="tel"> id="phone" name="phone" 
 
 
